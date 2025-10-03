@@ -24,7 +24,8 @@ export function HomePage() {
   const activities = [
     'LU Student Ambassador',
     'Mentor in LU Mentor Group',
-    'Volunteer at European Go Congress',
+    'SI Teaching Assistant For Image Analysis',
+    'Volunteer at European Go Congress 2025',
     'Lund University Global Scholarship Recipient'
   ];
 
