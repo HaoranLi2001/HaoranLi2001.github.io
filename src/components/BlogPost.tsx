@@ -119,8 +119,6 @@ export function BlogPost({ postId, onBack }: BlogPostProps) {
                     Day1:
                   </p>
 
-                </section>
-
               </div>
             </div>
           )
