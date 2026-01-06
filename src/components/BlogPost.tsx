@@ -99,7 +99,7 @@ export function BlogPost({ postId, onBack }: BlogPostProps) {
           )
         };
 
-      case 'LLM-post':
+      case 'LLM':
         return {
           title: 'LLM',
           date: 'January 6, 2026',
@@ -118,6 +118,8 @@ export function BlogPost({ postId, onBack }: BlogPostProps) {
                   <p className="mb-6 text-muted-foreground leading-relaxed">
                     Day1:
                   </p>
+
+                </section>
 
               </div>
             </div>
