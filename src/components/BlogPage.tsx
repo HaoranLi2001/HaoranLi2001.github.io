@@ -11,7 +11,7 @@ export function BlogPage({ onBlogPostClick }: BlogPageProps) {
       title: 'Search and Learning',
       description: 'Notes and Quotes on "The Bitter Lesson" by Sutton',
       date: 'October 3, 2025'
-    }
+    },
     {
       id: 'LLM',
       title: 'LLMQAQSOSZZZZZ',
