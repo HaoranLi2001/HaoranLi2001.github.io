@@ -14,7 +14,7 @@ export function BlogPage({ onBlogPostClick }: BlogPageProps) {
     },
     {
       id: 'LLM',
-      title: 'LLMQAQSOSZZZZZ',
+      title: 'LLMQAQSOSZZ',
       description: 'SOS',
       date: 'January 6, 2026'
     }
