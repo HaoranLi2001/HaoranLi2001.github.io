@@ -59,12 +59,7 @@ export function HomePage() {
           {/* Introduction */}
           <div className="mb-8">
             <p className="text-lg md:text-xl text-muted-foreground leading-relaxed mb-4">
-              Currently pursuing a Master's degree in Machine Learning at Lund University. 
-              My research interests focus on AI and Large Language Models (LLMs), with a 
-              passion for applying LLM-based agents to solve real-world problems.
-            </p>
-            <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">
-              I am seeking a collaborator for potential master's thesis projects.
+              Master student in Machine Learning at Lund University. 
             </p>
           </div>
 

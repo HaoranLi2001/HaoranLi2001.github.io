@@ -98,6 +98,33 @@ export function BlogPost({ postId, onBack }: BlogPostProps) {
             </div>
           )
         };
+
+      case 'LLM-post':
+        return {
+          title: 'LLM',
+          date: 'January 6, 2026',
+          lastModified: 'January 6, 2026',
+          content: (
+            <div className="prose prose-lg max-w-none leading-relaxed tracking-wide">
+
+              {/* Main Content */}
+              <div className="space-y-10">
+                {/* Point 1 */}
+                <section>
+                  <h3 className="text-xl font-bold mb-4 text-foreground">
+                    大模型八股狠狠学习
+                  </h3>
+                  
+                  <p className="mb-6 text-muted-foreground leading-relaxed">
+                    Day1:
+                  </p>
+
+                </section>
+
+              </div>
+            </div>
+          )
+        };
       default:
         return {
           title: 'Blog Post Not Found',
